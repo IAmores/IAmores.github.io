@@ -119,7 +119,7 @@
     },
     {
       "name": "Cryptography",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-tag",
       "keywords": [
         "Post-quantum cryptography",
         "Threshold cryptography"
