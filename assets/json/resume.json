@@ -25,9 +25,15 @@
     {
       "name": "University of Bern, Bern, Switzerland",
       "position": "Postdoctoral researcher",
-      "url": "https://example.com",
       "startDate": "2024-04-01",
       "endDate": "present",
+      "highlights": ["Distributed systems"]
+    },
+    {
+      "name": "Google",
+      "position": "SRP Intern",
+      "startDate": "2023-03-01",
+      "endDate": "2023-10-30",
       "highlights": ["Distributed systems"]
     }
   ],
