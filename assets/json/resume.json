@@ -51,6 +51,12 @@
   ],
   "publications": [
     {
+      "name": "An analysis of Avalanche consensus",
+      "publisher": "International Colloquium On Structural Information and Communication Complexity (Sirocco) 2024",
+      "releaseDate": "2024",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-60603-8_2"
+    },
+    {
       "name": "Eating Sandwiches: Modular and Lightweight Elimination of Transaction Reordering Attacks.",
       "publisher": "International conference on principles of distributed systems (OPODIS) 2023",
       "releaseDate": "2023",
