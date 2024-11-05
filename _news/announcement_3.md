@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have rejoined University of Bern as a postdoc.
+I am happy to announce that I have rejoined University of Bern as a postdoc.
