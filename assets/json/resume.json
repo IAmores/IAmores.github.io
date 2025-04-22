@@ -7,11 +7,11 @@
     "url": "https://iamores.github.io/",
     "summary": "A physicist and mathematician in love with cryptography",
     "location": {
-      "address": "Neubrückstrasse 10",
-      "postalCode": "3012 Bern",
-      "city": "Bern",
-      "countryCode": "CH",
-      "region": "Bern"
+      "address": "Åbogade 34 Building 5335, room 292",
+      "postalCode": "8200 Aarhus N",
+      "city": "Aarhus",
+      "countryCode": "DK",
+      "region": "Denmark"
     },
     "profiles": [
       {
@@ -22,6 +22,13 @@
     ]
   },
   "work": [
+    {
+      "name": "Aarhus Univeristy, Denmark",
+      "position": "Postdoctoral researcher",
+      "startDate": "2024-11-01",
+      "endDate": "present",
+      "highlights": ["Distributed systems"]
+    },
     {
       "name": "University of Bern, Bern, Switzerland",
       "position": "Postdoctoral researcher",
@@ -50,6 +57,12 @@
     }
   ],
   "publications": [
+    {
+      "name": "We Will DAG You",
+      "publisher": "CBT Workshop ESORICS",
+      "releaseDate": "2024",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-82349-7_19"
+    },
     {
       "name": "An analysis of Avalanche consensus",
       "publisher": "International Colloquium On Structural Information and Communication Complexity (Sirocco) 2024",
