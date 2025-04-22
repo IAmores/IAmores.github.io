@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. University of Bern, Bern, Switzerland.
+subtitle: <a href='#'>Affiliations</a>. Aarhus University, Denmark.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Office 110</p>
-    <p>Neubrückstrasse 10</p>
-    <p>3012 Bern, Switzerland</p>
+    <p> Office 292</p>
+    <p>Åbogade 34, 5335</p>
+    <p>8200 Aarhus N, Denmark</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
